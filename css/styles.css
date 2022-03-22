@@ -1,0 +1,47 @@
+body{
+  background-color: rgb(247, 247, 247);
+}
+
+.navbar-brand {
+  background-color: rgb(67, 166, 199);
+  color: rgb(172, 136, 136);
+  padding: 5px;
+  text-align: center;
+  }
+
+.navbar-collapse {
+background-color: #3d5720;
+}
+
+.carousel-inner
+{
+  background-color: rgb(40, 103, 104);
+}
+
+.productos{
+  margin: 10px;
+  padding: 15px 32px;
+  width: 40%;
+  background-color: #8dca48;
+}
+
+.noticias{
+  margin: 10px;
+  padding: 15px 32px;
+  width: 40%;
+  background-color: #a75252;
+}
+
+.soporte{
+  margin: 10px;
+  padding: 15px 32px;
+  width: 40%;
+  background-color: #139dc7;
+}
+h2{
+   width: 40%;
+  border-style:dotted;
+  font-style: italic;
+  padding: 15px 32px;
+  margin: 10px;
+}
